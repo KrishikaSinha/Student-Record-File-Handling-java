@@ -136,4 +136,3 @@ After completing this project, you will:
 * Build robust menu-based applications
 
 
-This project is free for academic and personal use.
